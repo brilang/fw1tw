@@ -6,7 +6,7 @@ This project is a lightweight ColdFusion (CFML) application using:
 - **CommandBox** for local development
 - **TailwindCSS** for styling
 
-This project reflects a working configuration.
+This project reflects a working configuration. The following reflects the steps taken (after much debugging and troubleshooting) to get a working project.
 
 ---
 
