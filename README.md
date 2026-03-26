@@ -59,6 +59,7 @@ Working CommandBox configuration:
     "webroot": "public",
   }
 }
+
 ---
 
 ## 🧱 1. Create the Project Directory
