@@ -59,6 +59,7 @@ Working CommandBox configuration:
     "webroot": "public",
   }
 }
+```
 
 ---
 
