@@ -1,0 +1,18 @@
+{
+  "name": "fw1tw",
+  "version": "1.0.0",
+  "description": "Framework One with Tailwind CSS",
+  "scripts": {
+    "dev": "box server start && npx @tailwindcss/cli -i ./src/css/app.css -o ./public/css/app.css --watch",
+    "start": "box server start",
+    "stop": "box server stop fw1tw"
+  },
+  "keywords": [],
+  "author": "Brian Lang",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@tailwindcss/cli": "^4.2.2",
+    "tailwindcss": "^4.2.2"
+  }
+}

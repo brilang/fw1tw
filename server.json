@@ -1,0 +1,10 @@
+{
+  "name": "fw1tw",
+  "background": true,
+  "web": {
+    "http": {
+      "port": 8080
+    },
+    "webroot": "public"
+  }
+}

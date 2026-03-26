@@ -1,0 +1,27 @@
+# Project specific files/directories to ignore
+public/css/app.css
+
+#Standard .gitignore for ColdFusion projects follows
+WEB-INF/*
+.project
+settings.xml
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# Environment-specific or temporary files
+config.json
+*.swp
+*.bak
+*.temp
+
+# NPM modules directory (if using Node.js in the project)
+node_modules/
+
+# OS generated files
+.DS_Store
+.cache/
+.idea/
+Thumbs.db
